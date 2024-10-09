@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ailstefe.github.io/sitemap.html.gz
+Sitemap: https://ailstefe.github.io/app/sitemap.html.gz
+Sitemap: https://ailstefe.github.io/assets/sitemap.html.gz
+Sitemap: https://ailstefe.github.io/css/sitemap.html.gz
+Sitemap: https://ailstefe.github.io/includes/sitemap.html.gz
+Sitemap: https://ailstefe.github.io/item/sitemap.html.gz
+Sitemap: https://ailstefe.github.io/src/sitemap.html.gz
